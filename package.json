@@ -1,0 +1,27 @@
+{
+  "name": "letter_grade",
+  "version": "1.0.0",
+  "main": "server.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tests",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jyoti211/node_test_pkgpublish.git"
+  },
+  "author": "jyoti kumari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jyoti211/node_test_pkgpublish/issues"
+  },
+  "homepage": "https://github.com/jyoti211/node_test_pkgpublish#readme",
+  "description": ""
+}
